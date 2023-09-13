@@ -1,0 +1,30 @@
+Commandes importantes : 
+=======================
+// Pour relancer une migration
+php artisan migrate:refresh --path=database/migrations/2023_03_29_210809_create_categories_table.php
+
+PROBLEME DE LIENS
+=================
+
+CampsFavoris.jsx
+----------------
+ligne 77 - 78
+
+Terrain.jsx
+-----------
+ligne 242 - 243
+
+Terrains.jsx
+------------
+ligne 90 - 91
+
+GestionAnnonces.jsx
+-------------------
+ligne 45 - 46
+ligne 75 - 76
+
+Annonce.jsx
+-----------
+ligne 1002 - 1003
+ligne 1041 - 1042
+ligne 1081 - 1082
